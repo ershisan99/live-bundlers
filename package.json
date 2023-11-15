@@ -1,7 +1,7 @@
 {
   "name": "@ershisan99/live-demo-lib",
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -23,7 +23,8 @@
     "@radix-ui/react-slider": "^1.1.2",
     "clsx": "^2.0.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.1.1"
   },
   "devDependencies": {
     "@it-incubator/eslint-config": "^1.0.1",
