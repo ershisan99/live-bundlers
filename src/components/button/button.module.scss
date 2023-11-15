@@ -1,0 +1,44 @@
+.button {
+  all: unset;
+
+  cursor: pointer;
+
+  box-sizing: border-box;
+  padding: 0.5rem 1rem;
+
+  border-radius: 0.25rem;
+
+  &:focus-visible {
+    outline: 2px solid lightcoral;
+    outline-offset: 2px;
+  }
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.primary {
+  color: white;
+  background-color: blue;
+}
+
+.secondary {
+  color: black;
+  background-color: lightblue;
+}
+
+.tertiary {
+  color: blue;
+  border: 1px solid blue;
+}
+
+.link {
+  color: blue;
+  text-decoration: underline;
+}
+
+.icon {
+  width: 1.5rem;
+  height: 1.5rem;
+}
