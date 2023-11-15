@@ -1,7 +1,7 @@
 {
-  "name": "lib-with-storybook-starter",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@ershisan99/live-demo-lib",
+  "private": false,
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "start": "vite",
